@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.bits.cmdchatbot -DartifactId=cmdChatBot -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
